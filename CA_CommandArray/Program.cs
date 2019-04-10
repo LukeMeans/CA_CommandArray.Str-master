@@ -360,7 +360,7 @@ namespace CommandArray
         static void DisplayContinuePrompt()
         {
             Console.WriteLine();
-            Console.WriteLine("Press any key to continue.");
+            Console.WriteLine("Press any key to contiinue.");
             Console.ReadKey();
         }
 
